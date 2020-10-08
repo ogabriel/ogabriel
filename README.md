@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ### Github stats
 
 ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=ogabriel&show_icons=true&theme=onedark)
+
+[font](https://github.com/anuraghazra/github-readme-stats)
