@@ -10,8 +10,6 @@ I've been only working with Ruby and Elixir in my current company, mostly mainta
 
 I'm really inclined towards low level programming and web development, because I really think that doing both is really fun. So I'm always exercising my C learnings, and currently I'm also learning Rust. For web development I'm already inclined towards the languages that I work at Petlove, like Ruby, Elixir and JS.
 
-I'm also working on my college's final paper (Computer Science). Which is a Erlang messaging application. Is a working in progress, so I won't spoil anything 👯.
-
 <!--
 **ogabriel/ogabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
