@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gabriel, I'm a backend developer from Brazil and currently, I work at a company called [petlove](https://github.com/petlove/) as a junior.
+My name is Gabriel, I'm a backend developer from Brazil and currently, I work at a company called [petlove](https://github.com/petlove/) as a senior developer.
 
 ### Working experience
 
