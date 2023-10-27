@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ### Github stats
 
 ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=ogabriel&show_icons=true&hide_border=true&theme=onedark)
-![Gabriel's github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabriel&theme=onedark&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5)
+![Gabriel's github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabriel&theme=onedark&layout=compact&hide_border=true&langs_count=20&size_weight=0.5&count_weight=0.5)
