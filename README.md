@@ -12,10 +12,7 @@ I'm really inclined towards low level programming and web development, because I
 
 ### Github stats
 
-<a href="https://projecteuler.net/">
-  ![Project Euler](https://projecteuler.net/profile/ogabriel.png)
-</a>
-
+![Project Euler](https://projecteuler.net/profile/ogabriel.png)
 ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=ogabriel&show_icons=true&hide_border=true&theme=onedark)
 ![Gabriel's github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabriel&theme=onedark&layout=compact&hide_border=true&langs_count=20&size_weight=0.5&count_weight=0.5)
 ![Gabriel's github lang by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ogabriel&theme=onedark)
