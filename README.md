@@ -12,6 +12,8 @@ I'm really inclined towards low level programming and web development, because I
 
 ### stats
 
-<a href="https://projecteuler.net">
+https://projecteuler.net/progress=ogabriel
+
+<a href="https://projecteuler.net/progress=ogabriel">
   <img align="center" src="https://projecteuler.net/profile/ogabriel.png" />
 </a>
